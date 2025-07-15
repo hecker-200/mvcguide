@@ -1,0 +1,5 @@
+Schema - define the structure
+
+schema = model 
+
+using model = 
